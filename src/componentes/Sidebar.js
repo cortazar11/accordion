@@ -10,6 +10,7 @@ function Sidebar(){
         {label:'Counter',path:'/counter'},
         {label:'Color',path:'/color'},
         {label:'Form',path:'/form'},
+        {label:'Counter',path:'/counter'},
     ];
     const renderedLinks=links.map((link)=>{
         return(
